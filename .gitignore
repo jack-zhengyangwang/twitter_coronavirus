@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 # vim
-*.swo 
+*.swo
 *.swp
+
+# output of the map reduce
+outputs/
+nohup.out
