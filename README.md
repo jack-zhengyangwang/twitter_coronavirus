@@ -1,4 +1,5 @@
 ![#coronavirus by language](reduced.lang_%23coronavirus.png)
+![#coronavirus by country](reduced.country_%23coronavirus.png)
 
 
 
