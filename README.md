@@ -1,3 +1,8 @@
+![#coronavirus by language](reduced.lang_%23coronavirus.png)
+
+
+
+
 # Coronavirus twitter analysis
 
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
