@@ -1,6 +1,6 @@
 ![#coronavirus by language](reduced.lang_%23coronavirus.png)
 ![#coronavirus by country](reduced.country_%23coronavirus.png)
-
+![#coronavirus by country korean](reduced.country_#코로나바이러스.png)
 
 
 
