@@ -1,7 +1,14 @@
-![#coronavirus by language](reduced.lang_%23coronavirus.png)
-![#coronavirus by country](reduced.country_%23coronavirus.png)
-![#coronavirus by country korean](reduced.country_#코로나바이러스.png)
+### Tweets with #coronavirus by language
+![lang coronavirus](reduced.lang_%23coronavirus.png)
 
+### Tweets with #coronavirus by country
+![country coronavirus](reduced.country_%23coronavirus.png)
+
+### Tweets with #코로나바이러스 by language
+![lang korean](reduced.lang_%23코로나바이러스.png)
+
+### Tweets with #코로나바이러스 by country
+![country korean](reduced.country_%23코로나바이러스.png)
 
 
 # Coronavirus twitter analysis
