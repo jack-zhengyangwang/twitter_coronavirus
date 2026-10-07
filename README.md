@@ -1,3 +1,5 @@
+This project analyzes all geotagged tweets from 2020 to track the spread of coronavirus-related hashtags across languages and countries using a Python MapReduce pipeline (`src/map.py`, `src/reduce.py`), which scans the large Twitter dataset, counts hashtag occurrences by tweet language and country code, and reduces the daily outputs into aggregate JSON files. I then visualized the results with `src/visualize.py`, generating bar charts of the top 10 languages and countries for `#coronavirus` and `#코로나바이러스`.
+
 ### Tweets with #coronavirus by language
 ![lang coronavirus](reduced.lang_%23coronavirus.png)
 
