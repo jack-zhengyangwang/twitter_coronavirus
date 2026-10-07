@@ -12,3 +12,7 @@ This project analyzes all geotagged tweets from 2020 to track the spread of coro
 ### Tweets with #코로나바이러스 by country
 ![country korean](reduced.country_%23코로나바이러스.png)
 
+### Daily usage of coronavirus hashtags in 2020
+`src/alternative_reduce.py` scans the daily map outputs directly and plots how many tweets used each hashtag on each day of 2020.
+
+![alternative reduce](alternative_reduce.png)
